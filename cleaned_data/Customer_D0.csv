@@ -1,0 +1,523 @@
+Customer ID,Customer Name,Customer_Segment,Maritial_Status,Gender,DOB,Country,Region,State or Province,City,Postal Code
+2638,Doctor. ALICIA WoOd ShaH,Consumer,Married,Female,02-05-1998,U.S.A,West,Idaho,Boise,83704
+2745,Doctor. Arnold GAY,Corporate,Married,Male,12-09-1992,US,West,Arizona,Chandler,85224
+357,Doctor. bArBAra McNamara,Corporate,Single,Female,12-08-1992,U.S.A,West,Arizona,Kingman,86401
+3264,Doctor. Becky Puckett,Corporate,Single,Male,02-09-1993,U.S.A,West,California,Eureka,95501
+617,Doctor. brett sCHultz,Consumer,Single,Male,02-05-1990,U.S,West,Colorado,Pueblo,81001
+1391,Doctor. Carolyn Greer,Small Business,Single,Male,02-05-1990,U.S,West,California,Sunnyvale,94086
+2803,Doctor. Catherine Dorsey Burnett,Small Business,Divorced,Male,02-05-1990,United States Of America,West,California,East Los Angeles,90022
+820,Doctor. Catherine Mullins,Small Business,Single,Male,02-06-1990,United States Of America,West,Washington,Walla Walla,99362
+3064,Doctor. Clarence Crowder,Consumer,Divorced,Female,02-06-1990,US,West,Washington,Lacey,98503
+2355,Doctor. Clyde Burnett,Consumer,Single,Female,12-07-1989,U.S,West,California,Coachella,92236
+1723,Doctor. Constance Flowers,Corporate,Single,Female,02-05-1992,United States,West,California,San Diego,92037
+1989,Doctor. David Weaver,Home Office,Single,Male,02-05-1993,United States Of America,West,Utah,Holladay,84117
+549,Doctor. Dennis Boykin Townsend,Corporate,Single,Male,02-06-1990,United States,West,New Mexico,Roswell,88201
+3325,Doctor. Diane Barr,Consumer,Widowed,Male,02-05-1992,U.S,West,Oregon,Coos Bay,97420
+922,Doctor. Dolores Abrams,Small Business,Single,Male,02-06-1992,U.S,West,California,Rancho Cucamonga,91730
+1189,Doctor. Dwight Stephenson,Consumer,Single,Male,12-07-1990,US,West,California,Huntington Beach,92646
+1374,Doctor. Earl Buck,Home Office,Single,Male,02-07-1991,U.S.A,West,California,Stockton,95207
+485,Doctor. Edward Leonard,Corporate,Single,Male,02-05-1989,US,West,California,Fresno,93727
+259,Doctor. Edward Pugh,Consumer,Single,Male,02-05-1991,United States Of America,West,New Mexico,Santa Fe,87505
+880,Doctor. Ellen Beck,Small Business,Single,Male,02-05-1992,U.S.A,West,Arizona,Scottsdale,85254
+3209,Doctor. Elsie Floyd,Corporate,Married,Male,02-05-1993,United States,West,California,Beverly Hills,90210
+949,Doctor. Ernest Oh,Consumer,Single,Male,02-05-1991,US,West,California,Los Angeles,90049
+993,Doctor. Gail Currin,Small Business,Single,Male,02-05-1993,United States Of America,West,California,Oxnard,93030
+308,Doctor. Glen Caldwell,Small Business,Single,Male,02-05-1992,United States,West,Washington,Seattle,98115
+1425,Doctor. Gregory Crane,Small Business,Single,Male,02-05-1989,US,West,Colorado,Fort Collins,80525
+1280,Doctor. Harold Albright,Corporate,Single,Male,02-05-1991,United States Of America,West,Washington,Seattle,98119
+3149,Doctor. Harriet Moore,Corporate,Married,Male,12-07-1988,United States Of America,West,Idaho,Rexburg,83440
+851,Doctor. Helen H Heller,Corporate,Single,Male,02-05-1994,United States,West,California,Hacienda Heights,91745
+3393,Doctor. Irene Murphy,Consumer,Married,Male,02-05-1992,United States Of America,West,Washington,Pullman,99163
+699,Doctor. Jenny Gold,Consumer,Single,Male,02-05-1998,United States,West,California,Los Angeles,90041
+1609,Doctor. Jerry Ennis,Consumer,Single,Male,02-05-1992,United States Of America,West,California,Sacramento,95823
+744,Doctor. Joy Maxwell,Consumer,Single,Female,02-05-1993,U.S.A,West,Arizona,Oro Valley,85737
+451,Doctor. Joyce Murray,Home Office,Single,Female,02-05-1994,U.S,West,California,Los Altos,94024
+1956,Doctor. Justin Frank,Consumer,Single,Female,02-05-1995,US,West,Colorado,Louisville,80027
+570,Doctor. Katharine Bass,Consumer,Single,Female,02-05-1995,U.S.A,West,Nevada,Henderson,89015
+1054,Doctor. Keith R Atkinson,Corporate,Single,Female,02-05-1994,United States,West,Arizona,Surprise,85374
+680,Doctor. Laurence Poe,Corporate,Single,Female,02-05-1991,United States Of America,West,Washington,Spokane,99207
+1782,Doctor. Lawrence Dennis,Home Office,Single,Female,02-05-1991,U.S.A,West,California,San Clemente,92672
+2962,Doctor. Leonard Strauss,Consumer,Single,Female,02-05-1989,U.S.A,West,Colorado,Louisville,80027
+2037,Doctor. Lynda Herman,Small Business,Single,Female,02-05-1988,United States,West,Montana,Bozeman,59715
+2495,Doctor. Maria Block,Consumer,Single,Female,02-05-1995,United States Of America,West,Wyoming,Rock Springs,82901
+2141,Doctor. Molly Webster,Home Office,Single,Female,02-05-1996,U.S.A,West,Colorado,Durango,81301
+640,Doctor. Neal Wolfe,Consumer,Single,Female,02-05-1995,US,West,Washington,Seattle,98119
+757,Doctor. Neil Hogan,Home Office,Single,Female,02-05-1986,U.S,West,Oregon,Tualatin,97062
+1869,Doctor. Roberta Daniel,Consumer,Single,Female,12-07-1994,U.S,West,New Mexico,Alamogordo,88310
+1117,Doctor. Samantha Koch,Home Office,Single,Female,02-05-1996,U.S.A,West,Arizona,Tucson,85705
+3354,Doctor. Sara Faulkner,Corporate,Single,Female,02-05-1993,US,West,California,Calexico,92231
+782,Doctor. Sarah N Becker,Small Business,Single,Female,02-05-1995,US,West,California,Whittier,90604
+236,Doctor. Shawn McIntyre,Corporate,Single,Female,02-05-1992,US,West,Colorado,Louisville,80027
+1307,Doctor. Teresa Hill,Small Business,Single,Female,02-05-1992,United States,West,Oregon,Coos Bay,97420
+3006,Doctor. Thomas Spence,Corporate,Single,Female,02-05-1996,U.S,West,Idaho,Idaho Falls,83402
+2431,Doctor. Troy Cassidy,Consumer,Single,Female,02-05-1994,US,West,California,Los Angeles,90004
+2855,Doctor. Vicki Womble,Consumer,Single,Female,02-05-1989,United States,West,Washington,Des Moines,98198
+2548,Doctor. Wayne Bass,Small Business,Single,Female,02-05-1990,United States,West,California,Los Angeles,90068
+181,Doctor. Wesley Waller,Corporate,Single,Female,02-05-1994,U.S,West,California,San Francisco,94122
+2670,Doctor. Yvonne Mann,Home Office,Single,Female,02-05-1995,U.S,West,California,Los Angeles,90049
+1155,Dr. Alex Nicholson,Consumer,Married,Male,02-05-1997,US,West,Colorado,Grand Junction,81503
+3063,Dr. Ann Steele,Consumer,Married,Female,02-05-1991,United States Of America,West,Washington,Kirkland,98034
+1988,Dr. Anna Burgess,Home Office,Married,Female,12-07-1990,United States,West,Utah,Draper,84020
+526,Dr. April Hu,Home Office,Married,Male,02-05-1991,U.S.A,West,Arizona,Mesa,85204
+353,Dr. Bonnie Chambers,Home Office,Single,Male,02-05-1990,U.S,West,Arizona,Glendale,85301
+2652,Dr. Brenda Ross,Consumer,Single,Male,02-06-1990,US,West,California,Bakersfield,93309
+254,Dr. Brett Hawkins,Home Office,Single,Male,12-09-1989,United States,West,Colorado,Highlands Ranch,80126
+638,Dr. Brooke Shepherd,Consumer,Single,Male,02-05-1990,United States Of America,West,California,Santa Cruz,95062
+800,Dr. Cheryl Guthrie,Consumer,Single,Male,02-05-1991,United States,West,Utah,Roy,84067
+1305,Dr. Chris Pritchard,Consumer,Single,Male,12-07-1990,U.S.A,West,Utah,West Valley City,84120
+2006,Dr. Cynthia Khan,Home Office,Single,Male,02-06-1990,U.S.A,West,Colorado,Durango,81301
+3206,Dr. Dana Rankin,Consumer,Widowed,Male,02-05-1991,U.S.A,West,Idaho,Twin Falls,83301
+463,Dr. Debbie Stevenson,Small Business,Single,Male,02-05-1992,United States Of America,West,California,West Hollywood,90069
+771,Dr. Deborah Paul,Small Business,Single,Male,02-05-1990,United States Of America,West,Oregon,West Linn,97068
+1665,Dr. Elsie Pridgen,Consumer,Single,Male,02-05-1991,U.S.A,West,California,Laguna Hills,92653
+2323,Dr. Emma Buckley,Small Business,Single,Male,02-05-1991,US,West,California,Coachella,92236
+875,Dr. Erika Fink,Small Business,Single,Male,02-05-1994,U.S,West,Utah,Salt Lake City,84106
+1044,Dr. Erin Ballard,Home Office,Single,Male,02-05-1994,U.S.A,West,California,Los Angeles,90004
+428,Dr. Ernest Barber,Corporate,Single,Male,02-05-1992,US,West,Nevada,Carson City,89701
+2931,Dr. Faye Hanna,Small Business,Married,Male,02-05-1989,U.S,West,California,El Dorado Hills,95630
+218,Dr. Frances Saunders,Consumer,Single,Male,02-05-1991,United States Of America,West,Utah,Murray,84107
+1186,Dr. Glenda Herbert,Consumer,Single,Male,02-05-1993,United States Of America,West,California,Huntington Beach,92646
+972,Dr. Gregory Holden,Corporate,Single,Male,12-07-1990,United States,West,California,Riverside,92503
+510,Dr. Gregory Rao,Corporate,Single,Male,02-05-1991,United States,West,California,Manteca,95336
+3258,Dr. Gretchen Best Wilkins,Consumer,Married,Male,02-05-1991,U.S,West,Washington,Lynnwood,98037
+1390,Dr. Hazel Jones,Corporate,Single,Male,02-05-1991,US,West,California,Stockton,95207
+754,Dr. Helen Lyons,Consumer,Single,Male,02-05-1993,US,West,Arizona,Prescott Valley,86314
+1781,Dr. Jackie Capps,Home Office,Single,Male,12-07-1990,U.S,West,California,San Carlos,94070
+2385,Dr. Janice Frye,Small Business,Single,Male,12-07-1988,United States Of America,West,New Mexico,Las Cruces,88001
+850,Dr. Jesse Hutchinson,Corporate,Single,Male,02-05-1989,U.S.A,West,California,Goleta,93117
+920,Dr. Jessie Kelly,Consumer,Single,Male,02-05-1991,US,West,California,Redlands,92374
+2801,Dr. Jimmy Wang,Home Office,Married,Male,02-05-1989,United States,West,Arizona,Chandler,85224
+1271,Dr. Joanne Church,Corporate,Single,Female,12-07-1989,United States,West,California,La Mesa,91941
+1852,Dr. Joy Kaplan McNeill,Home Office,Single,Female,02-05-1989,US,West,California,Carlsbad,92008
+1113,Dr. Julia Reynolds,Corporate,Single,Female,02-05-1991,U.S,West,Colorado,Arvada,80004
+679,Dr. Katie Dougherty,Corporate,Single,Female,02-05-1998,United States,West,Washington,Spanaway,98387
+556,Dr. Kristina Sanders,Home Office,Single,Female,02-05-1989,U.S,West,Utah,Provo,84604
+3148,Dr. Leroy Field,Corporate,Single,Female,12-07-1990,United States,West,Idaho,Post Falls,83854
+3324,Dr. Leslie Jacobson,Consumer,Single,Female,02-05-1994,US,West,Arizona,El Mirage,85335
+1950,Dr. Leslie Shannon,Small Business,Single,Female,02-05-1996,United States Of America,West,Montana,Butte,59750
+2626,Dr. Lillian Fischer,Consumer,Single,Female,02-05-1994,U.S,West,California,Menlo Park,94025
+604,Dr. Lindsay P Ashley,Home Office,Single,Female,02-05-1992,US,West,California,Los Angeles,90045
+1316,Dr. Marion Lindsey,Home Office,Single,Female,02-05-1994,U.S,West,Colorado,Commerce City,80022
+1481,Dr. Marvin MacDonald,Corporate,Single,Female,02-05-1989,United States,West,California,Los Angeles,90049
+2741,Dr. Megan York,Small Business,Single,Female,02-05-1997,United States Of America,West,Idaho,Caldwell,83605
+2135,Dr. Melvin Kendall,Home Office,Single,Female,02-05-1997,U.S,West,New Mexico,Clovis,88101
+2828,Dr. Monica Howard,Corporate,Single,Female,02-05-1998,U.S.A,West,California,El Centro,92243
+3351,Dr. Nathan Wyatt,Small Business,Single,Female,02-05-1990,United States Of America,West,Washington,Pasco,99301
+698,Dr. Nelson Hensley,Corporate,Single,Female,02-05-1995,U.S.A,West,Washington,Seattle,98105
+2531,Dr. Rick Houston,Small Business,Single,Female,02-05-1989,U.S.A,West,California,Atascadero,93422
+164,Dr. Robin Kramer Vaughn,Home Office,Single,Female,02-05-1988,US,West,Washington,Richland,99352
+1424,Dr. Robyn Zhou,Home Office,Single,Female,02-05-1989,United States Of America,West,Colorado,Englewood,80112
+290,Dr. Sara O'Connor,Small Business,Single,Female,02-05-1994,U.S.A,West,Colorado,Loveland,80538
+2491,Dr. Sean N Boyer,Consumer,Single,Female,02-05-1992,United States,West,California,Los Angeles,90045
+945,Dr. Stephanie Sun Perry,Home Office,Single,Female,02-05-1991,United States Of America,West,California,Saratoga,95070
+719,Dr. Stephen Lam,Corporate,Single,Female,02-05-1993,U.S,West,Nevada,Pahrump,89041
+3005,Dr. Teresa Watts,Corporate,Single,Female,02-05-1995,US,West,Idaho,Coeur D Alene,83814
+32,Miss. Matthew Berman,Corporate,Single,Female,02-05-1989,U.S,West,Oregon,Grants Pass,97526
+32,Miss. Matthew Berman,Corporate,Single,Female,02-05-1989,U.S,West,Oregon,Grants Pass,97526
+87,Miss. Norman Shields,Corporate,Single,Female,12-07-1996,U.S.A,West,California,Vacaville,95687
+5,Miss. Ronnie Proctor,Home Office,Single,Female,12-07-1989,U.S,West,California,San Gabriel,91776
+5,Miss. Ronnie Proctor,Home Office,Single,Female,12-07-1989,U.S,West,California,San Gabriel,91776
+53,Miss. Sidney Russell Austin,Corporate,Single,Female,02-05-1988,US,West,Washington,Redmond,98052
+43,Miss. Theodore Moran,Consumer,Single,Female,02-05-1986,United States,West,Washington,Redmond,98052
+43,Miss. Theodore Moran,Consumer,Single,Female,02-05-1986,United States,West,Washington,Redmond,98052
+91,Miss. Wallace Werner,Corporate,Single,Female,02-05-1991,United States,West,California,Vallejo,94591
+3,Mister. Bonnie Potter,Corporate,Single,Male,02-06-1992,US,West,Washington,Anacortes,98221
+3,Mister. Bonnie Potter,Corporate,Single,Male,02-06-1992,US,West,Washington,Anacortes,98221
+156,Mister. Diana Xu,Corporate,Single,Male,02-05-1990,United States Of America,West,Colorado,Fort Collins,80525
+27,Mister. Guy Gallagher,Corporate,Single,Male,12-07-1991,US,West,California,Lakewood,90712
+27,Mister. Guy Gallagher,Corporate,Single,Male,12-07-1991,US,West,California,Lakewood,90712
+522,Mr. Aaron Riggs,Small Business,Single,Male,02-05-1997,United States Of America,West,Washington,Tacoma,98408
+3388,Mr. Aaron Shaffer,Corporate,Married,Male,02-05-1997,United States,West,Colorado,Grand Junction,81503
+1315,Mr. Adam Saunders Gray,Home Office,Divorced,Male,02-05-1993,US,West,Colorado,Grand Junction,81503
+1155,Mr. Alex Nicholson,Consumer,Single,Male,02-05-1998,U.S,West,Washington,Parkland,98444
+136,Mr. Dale Gillespie,Small Business,Single,Male,02-05-1990,United States,West,California,Petaluma,94952
+115,Mr. Dwight M Carr,Home Office,Single,Male,02-06-1991,US,West,Oregon,Mcminnville,97128
+24,Mr. Edna Thomas,Corporate,Single,Male,02-05-1994,United States Of America,West,California,Laguna Niguel,92677
+24,Mr. Edna Thomas,Corporate,Single,Male,02-05-1994,United States Of America,West,California,Laguna Niguel,92677
+67,Mr. Ellen McCormick,Corporate,Single,Male,02-05-1990,U.S,West,California,Napa,94559
+120,Mrs. Helen H Murphy,Corporate,Single,Male,02-05-1991,U.S.A,West,Utah,Layton,84041
+19,Mrs. Jim Rodgers,Small Business,Single,Male,02-05-1993,United States,West,Montana,Missoula,59801
+19,Mrs. Jim Rodgers,Small Business,Single,Male,02-05-1993,United States,West,Montana,Missoula,59801
+18,Mrs. Laurie Hanna,Small Business,Single,Female,12-07-1994,U.S.A,West,Montana,Helena,59601
+18,Mrs. Laurie Hanna,Small Business,Single,Female,12-07-1994,U.S.A,West,Montana,Helena,59601
+117,Mrs. Linda Weiss,Home Office,Single,Female,02-05-1999,U.S,West,Washington,Seattle,98103
+52,Mrs. Lorraine Kelly,Corporate,Single,Female,02-05-1996,United States Of America,West,Washington,Puyallup,98373
+52,Mrs. Lorraine Kelly,Corporate,Single,Female,02-05-1996,United States Of America,West,Washington,Puyallup,98373
+33,Mrs. Ricky Hensley,Corporate,Single,Female,02-05-1997,U.S.A,West,Oregon,Gresham,97030
+33,Mrs. Ricky Hensley,Corporate,Single,Female,02-05-1997,U.S.A,West,Oregon,Gresham,97030
+114,Mrs. Ron Newton,Home Office,Single,Female,02-05-1991,United States Of America,West,Oregon,Lake Oswego,97035
+522,Prof. Aaron Riggs,Small Business,Married,Male,02-05-1997,US,West,Idaho,Boise,83704
+691,Prof. Alicia Curtis,Home Office,Married,Female,02-05-1998,US,West,Washington,Tacoma,98408
+2498,Prof. Arlene Long,Small Business,Married,Male,02-05-1992,US,West,California,San Diego,92024
+1410,Prof. Charles Ward,Corporate,Single,Male,02-05-1991,U.S.A,West,California,Moreno Valley,92553
+1383,Prof. Christina Hanna,Consumer,Single,Female,12-09-1990,United States,West,Utah,West Valley City,84120
+2773,Prof. Christina Zhu,Corporate,Divorced,Female,02-09-1991,U.S,West,California,Dublin,94568
+1303,Prof. Cindy Harvey,Consumer,Single,Female,02-05-1990,US,West,Utah,Tooele,84074
+2489,Prof. Craig Liu,Home Office,Single,Male,02-05-1991,U.S,West,California,Concord,94521
+193,Prof. Danny Hong,Corporate,Single,Male,02-05-1990,U.S.A,West,Utah,Layton,84041
+493,Prof. Douglas Buck,Consumer,Single,Male,02-05-1990,U.S,West,Washington,Seatac,98158
+830,Prof. Douglas Sutton,Corporate,Single,Male,02-05-1991,US,West,Colorado,Wheat Ridge,80033
+1836,Prof. Dwight Albright Huffman,Corporate,Single,Male,02-06-1991,United States,West,California,San Francisco,94110
+1940,Prof. Eileen McDonald,Corporate,Single,Male,12-07-1991,U.S.A,West,Utah,Draper,84020
+2356,Prof. Emma Bloom,Consumer,Single,Male,12-07-1992,U.S.A,West,Wyoming,Rock Springs,82901
+2868,Prof. Eugene Clayton,Corporate,Married,Male,02-05-1991,United States Of America,West,Washington,Edmonds,98026
+2052,Prof. Francis Kendall,Home Office,Single,Male,02-05-1991,United States Of America,West,New Mexico,Albuquerque,87105
+240,Prof. Gilbert Scarborough,Small Business,Single,Male,02-05-1991,U.S,West,Colorado,Fountain,80817
+3355,Prof. Glenda Simon,Corporate,Married,Male,02-05-1993,U.S,West,California,Camarillo,93010
+3075,Prof. Gordon Brandt,Corporate,Married,Male,12-07-1991,U.S,West,California,Los Angeles,90061
+576,Prof. Gordon Lyon,Corporate,Single,Male,02-05-1993,United States,West,California,Pomona,91767
+2164,Prof. Harry Sellers,Small Business,Single,Male,02-05-1990,United States,West,California,Pasadena,91104
+268,Prof. James Beck,Home Office,Single,Male,12-07-1990,US,West,Arizona,Flagstaff,86001
+786,Prof. Jason Bray,Home Office,Single,Male,02-05-1990,U.S,West,California,Mission Viejo,92691
+1182,Prof. Jesse Williamson,Home Office,Single,Male,02-05-1990,U.S.A,West,Utah,Spanish Fork,84660
+700,Prof. Joseph Grossman,Consumer,Single,Female,02-05-1992,United States Of America,West,California,Santa Maria,93454
+317,Prof. Katherine Kearney,Corporate,Single,Female,02-05-1999,United States Of America,West,California,Lemon Grove,91945
+3238,Prof. Kathleen P Bloom,Corporate,Single,Female,02-05-1990,United States Of America,West,Oregon,Corvallis,97330
+1314,Prof. Keith Marsh,Home Office,Single,Female,02-05-1991,United States Of America,West,California,Los Angeles,90058
+918,Prof. Kerry Jernigan,Corporate,Single,Female,12-07-1998,United States,West,California,Rancho Cucamonga,91730
+1730,Prof. Kerry Wilkerson,Small Business,Single,Female,02-05-1987,United States Of America,West,Idaho,Moscow,83843
+1101,Prof. Kimberly McCarthy,Small Business,Single,Female,02-05-1993,United States Of America,West,California,Oxnard,93030
+553,Prof. Kristine Connolly,Corporate,Single,Female,12-07-1992,United States Of America,West,California,Los Angeles,90008
+651,Prof. Leah Clapp,Consumer,Single,Female,02-05-1999,U.S,West,Nevada,Las Vegas,89115
+853,Prof. Leah Davenport,Small Business,Single,Female,02-05-1987,United States Of America,West,California,Hesperia,92345
+452,Prof. Leslie Rowland,Home Office,Single,Female,02-05-1995,U.S.A,West,California,Los Banos,93635
+2699,Prof. Marcia Greenberg,Corporate,Single,Female,12-07-1987,U.S.A,West,Arizona,Bullhead City,86442
+2639,Prof. Marianne Connor,Consumer,Single,Female,02-05-1988,United States,West,New Mexico,Roswell,88201
+745,Prof. Mary Page,Consumer,Single,Female,02-05-1998,United States,West,Arizona,Peoria,85345
+2823,Prof. Max Hurley,Corporate,Single,Female,02-05-1988,US,West,Nevada,North Las Vegas,89031
+3017,Prof. Melvin Benton,Corporate,Single,Female,02-05-1993,U.S.A,West,California,Encinitas,92024
+1041,Prof. Mildred Chase,Small Business,Single,Female,02-05-1987,US,West,California,Woodland,95695
+1991,Prof. Paula Hubbard,Home Office,Single,Female,02-05-1992,US,West,Utah,Kearns,84118
+3340,Prof. Phillip Blum,Consumer,Single,Female,02-05-1989,U.S.A,West,Oregon,Troutdale,97060
+960,Prof. Phillip Chappell,Home Office,Single,Female,02-05-1990,U.S,West,California,Redondo Beach,90278
+3196,Prof. Rick Foster Hawkins,Home Office,Single,Female,02-05-1988,US,West,California,San Francisco,94109
+618,Prof. Robert Cowan,Consumer,Single,Female,02-05-1993,U.S.A,West,Colorado,Pueblo West,81007
+936,Prof. Robyn Garner,Corporate,Single,Female,02-05-1992,U.S.A,West,California,Redlands,92374
+3003,Prof. Roy Rouse,Home Office,Single,Female,02-05-1990,United States,West,Idaho,Coeur D Alene,83814
+1257,Prof. Ryan Foster,Home Office,Single,Female,02-05-1987,U.S,West,Colorado,Aurora,80013
+1636,Prof. Sidney Greenberg,Home Office,Single,Female,12-07-1997,US,West,California,Salinas,93905
+762,Prof. Stuart Holloway,Small Business,Single,Female,02-05-1987,U.S.A,West,Washington,Vancouver,98661
+3275,Prof. Tamara Dickinson,Small Business,Single,Female,02-05-1993,United States,West,Washington,Mount Vernon,98273
+3403,Prof. Tammy Buckley,Consumer,Single,Female,12-07-1987,US,West,Wyoming,Cheyenne,82001
+1121,Prof. Tonya Proctor,Consumer,Single,Female,02-05-1997,United States,West,California,Temecula,92592
+369,Prof. Troy Moon,Corporate,Single,Female,12-07-1994,United States,West,California,Oakland,94601
+1450,Prof. Veronica Peck,Consumer,Single,Female,12-07-1996,U.S,West,California,South Lake Tahoe,96150
+1958,Prof. Vickie Martinez,Consumer,Single,Female,02-05-1997,U.S,West,Oregon,West Linn,97068
+2570,Prof. Yvonne Stephens,Consumer,Single,Female,12-07-1998,United States Of America,West,California,Davis,95616
+522,Professor Aaron Riggs,Small Business,Married,Male,02-05-1997,U.S,West,Idaho,Rexburg,83440
+3205,Professor Alvin Mullins,Consumer,Married,Male,02-05-1995,U.S,West,Idaho,Rexburg,83440
+241,Professor Amy Ellis Holder,Small Business,Married,Female,02-05-1998,U.S.A,West,Colorado,Grand Junction,81503
+3350,Professor Amy York,Small Business,Married,Female,02-06-1992,United States,West,Washington,Parkland,98444
+653,Professor Ann Katz,Consumer,Married,Female,02-10-1991,U.S.A,West,California,Rancho Cucamonga,91730
+1183,Professor Becky O'Brien,Home Office,Single,Male,02-08-1993,United States,West,Utah,Springville,84663
+961,Professor Benjamin Chan,Home Office,Single,Male,12-12-1992,U.S.A,West,California,Redwood City,94061
+269,Professor Calvin Boyette,Home Office,Single,Male,02-05-1991,U.S,West,Arizona,Gilbert,85234
+2825,Professor Carole Rosen,Consumer,Divorced,Male,02-05-1990,U.S,West,Idaho,Boise,83701
+411,Professor Carolyn Proctor,Consumer,Single,Male,02-07-1990,United States Of America,West,California,Oakland,94601
+1653,Professor Charles Cline,Corporate,Single,Male,02-05-1990,U.S,West,California,Thousand Oaks,91360
+637,Professor Christopher Bryant,Consumer,Single,Female,12-12-1990,United States,West,California,Santa Clara,95051
+335,Professor Curtis O'Connell,Corporate,Single,Male,12-07-1989,US,West,Oregon,Medford,97504
+1949,Professor Dana Waller,Small Business,Single,Male,12-08-1990,United States,West,Montana,Bozeman,59715
+3084,Professor Debbie Hsu,Small Business,Widowed,Male,02-05-1991,U.S.A,West,Washington,Lacey,98503
+2376,Professor Debra Batchelor,Corporate,Single,Male,02-05-1990,United States,West,Idaho,Moscow,83843
+797,Professor Eileen Riddle,Corporate,Single,Male,02-05-1992,U.S.A,West,Utah,Roy,84067
+753,Professor Elisabeth Massey,Corporate,Single,Male,02-05-1990,United States Of America,West,Arizona,Prescott,86301
+453,Professor George Terry,Corporate,Single,Male,12-07-1992,United States,West,California,Los Gatos,95032
+833,Professor Gerald Love,Corporate,Single,Male,02-05-1989,U.S,West,California,Gilroy,95020
+770,Professor Geraldine Puckett,Small Business,Single,Male,02-05-1992,United States,West,Oregon,Tualatin,97062
+603,Professor Gretchen Ball,Home Office,Single,Male,02-05-1990,United States Of America,West,Colorado,Pueblo,81001
+1837,Professor Herbert Williamson,Corporate,Single,Male,02-05-1992,United States Of America,West,California,San Gabriel,91776
+2004,Professor James Dickinson Ball,Home Office,Single,Male,02-05-1990,U.S,West,Montana,Bozeman,59715
+2530,Professor Janet Zhang,Small Business,Single,Male,02-05-1989,U.S,West,California,Apple Valley,92307
+1389,Professor Jean Khan,Consumer,Single,Male,02-05-1990,United States Of America,West,California,Menlo Park,94025
+1042,Professor Jerome Burch,Small Business,Single,Male,02-05-1990,U.S,West,California,Yuba City,95991
+494,Professor Jimmy Alston Holder,Consumer,Single,Male,02-05-1993,U.S.A,West,Washington,Seattle,98115
+2781,Professor Kelly Byers,Consumer,Single,Female,02-05-1997,U.S.A,West,Oregon,Woodburn,97071
+702,Professor Kelly O'Connor,Consumer,Single,Female,02-05-1989,US,West,California,Santa Rosa,95404
+937,Professor Kelly Shaw,Corporate,Single,Female,02-05-1991,United States,West,California,Redondo Beach,90278
+1112,Professor Luis Kerr,Corporate,Single,Female,02-05-1998,US,West,California,Yucaipa,92399
+1412,Professor Marc Ray,Corporate,Single,Female,02-05-1997,United States,West,California,Mountain View,94043
+1979,Professor Marianne Weiner Ennis,Corporate,Single,Female,02-05-1990,U.S.A,West,Colorado,Littleton,80122
+3287,Professor Mary Norman,Small Business,Single,Female,02-05-1997,United States Of America,West,California,Granite Bay,95746
+3004,Professor Maurice Everett,Corporate,Single,Female,02-05-1998,United States Of America,West,California,Los Angeles,90049
+1754,Professor Nelson Hong,Consumer,Single,Female,02-05-1998,US,West,California,Torrance,90503
+2490,Professor Pauline Finch,Home Office,Single,Female,02-05-1998,U.S.A,West,California,Costa Mesa,92627
+1123,Professor Peggy Lanier,Small Business,Single,Female,02-05-1988,United States Of America,West,California,Roseville,95661
+2729,Professor Penny O Caldwell,Consumer,Single,Female,12-07-1990,United States,West,Washington,Bellingham,98226
+693,Professor Richard McClure,Small Business,Single,Female,12-07-1995,U.S,West,Colorado,Thornton,80229
+3356,Professor Richard Tan,Corporate,Single,Female,02-05-1999,U.S.A,West,Idaho,Eagle,83616
+871,Professor Sandy Ellington,Home Office,Single,Female,02-05-1998,US,West,Nevada,Reno,89502
+2225,Professor Sean McKenna,Small Business,Single,Female,12-07-1994,United States Of America,West,New Mexico,Hobbs,88240
+3257,Professor Sharon Marcus,Consumer,Single,Female,12-07-1988,US,West,Washington,Longview,98632
+1304,Professor Sherri McIntosh,Consumer,Single,Female,02-05-1986,U.S,West,Utah,West Jordan,84084
+2878,Professor Susan Carroll Berman,Consumer,Single,Female,02-05-1990,US,West,Washington,Seattle,98107
+194,Professor Tammy Goldman,Corporate,Single,Female,02-05-1990,United States,West,Utah,Lehi,84043
+2647,Professor Teresa Bishop,Corporate,Single,Female,12-07-1990,United States Of America,West,California,Bakersfield,93309
+2610,Professor Tommy Lutz,Corporate,Single,Female,02-05-1995,US,West,California,Davis,95616
+3048,Professor Tracy G Starr,Corporate,Single,Female,12-07-1987,United States,West,California,Berkeley,94704
+919,Professor Tracy Livingston,Consumer,Single,Female,02-05-1989,United States Of America,West,California,Redding,96003
+2094,Professor Vernon Hirsch Singleton,Corporate,Single,Female,12-07-1995,US,West,California,Chico,95928
+1469,Professor Vicki Zhu Daniels,Small Business,Single,Female,12-07-1990,U.S.A,West,Utah,Clearfield,84015
+1261,Professor Vickie Gonzalez,Home Office,Single,Female,02-05-1996,U.S.A,West,Colorado,Broomfield,80020
+555,Professor Walter Young,Corporate,Single,Female,12-07-1993,US,West,Utah,Pleasant Grove,84062
+2359,Doctor Annie Horne,Home Office,Married,Female,02-06-1990,United States,South,Florida,Fort Myers,33917
+2285,Doctor Arnold Floyd Blair,Corporate,Married,Male,02-06-1993,USA,South,South Carolina,Rock Hill,29730
+2395,Doctor Beverly Roberts,Corporate,Single,Female,02-08-1990,USA,South,Georgia,Savannah,31401
+507,Doctor Carol Saunders,Corporate,Single,Male,02-05-1990,US,South,Kentucky,Bowling Green,42104
+3347,Doctor Carrie McIntosh,Consumer,Divorced,Male,02-05-1991,United States,South,Florida,Royal Palm Beach,33411
+3128,Doctor Cathy Burgess,Small Business,Divorced,Male,02-07-1990,US,South,Louisiana,Shreveport,71109
+3224,Doctor Claudia White,Small Business,Divorced,Female,12-08-1990,US,South,Tennessee,Gallatin,37066
+2137,Doctor Crystal Crabtree,Corporate,Single,Male,02-06-1991,United States,South,Florida,West Palm Beach,33407
+2720,Doctor Donna Block,Small Business,Single,Male,02-05-1989,USA,South,Georgia,Dalton,30721
+2454,Doctor Donna Braun,Corporate,Single,Male,02-05-1990,United States,South,Alabama,Hoover,35244
+1363,Doctor Earl Roy,Consumer,Single,Male,02-05-1990,US,South,Florida,Casselberry,32707
+2684,Doctor Edna Michael,Small Business,Single,Male,02-05-1993,United States,South,Florida,Port Charlotte,33952
+1739,Doctor Edna Pierce,Corporate,Single,Male,12-07-1991,US,South,North Carolina,Goldsboro,27534
+678,Doctor Edward McKenzie,Corporate,Single,Male,02-05-1990,USA,South,Virginia,Rose Hill,24281
+2848,Doctor Eileen Dalton,Corporate,Married,Male,02-05-1992,USA,South,Tennessee,Columbia,38401
+2069,Doctor Elsie Boykin,Consumer,Single,Male,02-05-1992,USA,South,Kentucky,Fort Thomas,41075
+2488,Doctor Gordon Walker,Consumer,Single,Male,02-05-1990,US,South,Arkansas,Cabot,72023
+2880,Doctor Grace Black,Small Business,Married,Male,12-07-1991,US,South,Florida,North Miami Beach,33160
+2540,Doctor Helen Ferguson,Home Office,Single,Male,02-05-1990,United States,South,Florida,Winter Springs,32708
+3169,Doctor Janice Boswell,Small Business,Married,Male,02-05-1990,United States,South,Florida,Port Orange,32127
+2044,Doctor Jay Simon,Corporate,Single,Male,02-05-1992,US,South,Arkansas,Rogers,72756
+1554,Doctor Joan Floyd,Consumer,Single,Female,12-07-1989,US,South,Mississippi,Gulfport,39503
+2770,Doctor Joel Burnette,Corporate,Single,Female,02-05-1989,US,South,Georgia,Dunwoody,30338
+1531,Doctor Jon Ayers,Consumer,Single,Female,02-05-1992,USA,South,Florida,Palm Coast,32137
+1634,Doctor Katherine W Epstein,Home Office,Single,Female,02-05-1987,USA,South,Mississippi,Jackson,39212
+2481,Doctor Kelly Sawyer,Corporate,Single,Female,02-05-1990,USA,South,Louisiana,Lafayette,70506
+2578,Doctor Kent Gill,Home Office,Single,Female,12-07-1987,USA,South,Alabama,Opelika,36801
+2308,Doctor Laurence Cummings,Small Business,Single,Female,02-05-1988,US,South,Florida,Lehigh Acres,33971
+3105,Doctor Lawrence Hester,Home Office,Single,Female,02-05-1995,USA,South,Kentucky,Murray,42071
+1185,Doctor Lee Xu,Consumer,Single,Female,02-05-1994,United States,South,Alabama,Madison,35756
+803,Doctor Marianne Goldstein,Small Business,Single,Female,02-05-1989,US,South,Florida,New Smyrna Beach,32168
+1971,Doctor Marsha Roy,Corporate,Single,Female,02-05-1990,USA,South,Mississippi,Tupelo,38801
+1815,Doctor Marvin Yang,Home Office,Single,Female,02-05-1995,USA,South,Mississippi,Pearl,39208
+3255,Doctor Maureen Whitley,Home Office,Single,Female,02-05-1996,United States,South,Florida,Tamarac,33319
+2240,Doctor Maurice Kelly,Corporate,Single,Female,02-05-1986,US,South,Florida,Lakeland,33801
+1018,Doctor Meredith Humphrey,Home Office,Single,Female,02-05-1998,US,South,North Carolina,Cary,27511
+2968,Doctor Miriam Bowman,Small Business,Single,Female,02-05-1992,United States,South,Florida,Hollywood,33021
+829,Doctor Monica Law Thompson,Corporate,Single,Female,02-05-1987,United States,South,Arkansas,Texarkana,71854
+1919,Doctor Nathan Jenkins,Home Office,Single,Female,02-05-1998,United States,South,Arkansas,Pine Bluff,71603
+2258,Doctor Nicole Pope,Corporate,Single,Female,02-05-1999,United States,South,North Carolina,Rocky Mount,27801
+2114,Doctor Paige Mason,Corporate,Single,Female,02-05-1998,US,South,Virginia,Norfolk,23518
+568,Doctor Peter McConnell,Consumer,Single,Female,02-05-1988,United States,South,Mississippi,Columbus,39701
+1502,Doctor Renee Huang,Small Business,Single,Female,02-05-1995,United States,South,Florida,Coral Springs,33065
+3285,Doctor Ricky Garner,Consumer,Single,Female,02-05-1995,USA,South,Virginia,Herndon,20170
+2621,Doctor Robyn Hayes,Corporate,Single,Female,02-05-1993,US,South,Tennessee,Brentwood,37027
+2787,Doctor Rodney Kearney,Consumer,Single,Female,02-05-1992,United States,South,Louisiana,Metairie,70003
+1267,Doctor Rosemary Branch,Corporate,Single,Female,02-05-1993,USA,South,Florida,Boca Raton,33433
+1719,Doctor Russell W Melton,Corporate,Single,Female,02-05-1994,USA,South,Alabama,Northport,35473
+1910,Doctor Sean Stephenson,Home Office,Single,Female,02-05-1991,US,South,Georgia,Peachtree City,30269
+1711,Doctor Sharon Long,Corporate,Single,Female,12-07-1986,United States,South,Georgia,Marietta,30062
+1574,Doctor Sherry Hurley,Consumer,Single,Female,02-05-1989,United States,South,North Carolina,Fayetteville,28314
+2183,Doctor Sheryl Reese,Home Office,Single,Female,02-05-1991,USA,South,Kentucky,Owensboro,42301
+3187,Doctor Sidney Gilliam,Small Business,Single,Female,12-07-1994,USA,South,Florida,Riverview,33569
+1672,Doctor Sidney Scarborough,Small Business,Single,Female,02-05-1990,US,South,Virginia,Charlottesville,22901
+983,Doctor Sue Drake,Corporate,Single,Female,02-05-1989,USA,South,Arkansas,Searcy,72143
+1788,Doctor Valerie Siegel,Consumer,Single,Female,02-05-1998,United States,South,Georgia,Woodstock,30188
+2420,Doctor Wesley Cho,Consumer,Single,Female,02-05-1998,US,South,Virginia,Richmond,23223
+2882,Dr. Andrew Gonzalez,Consumer,Married,Male,02-05-1996,U.S,South,North Carolina,Charlotte,28206
+3194,Dr. Angela Rose,Consumer,Married,Female,02-05-1991,U.S.A,South,Florida,Spring Hill,34609
+3379,Dr. Annette McIntyre,Home Office,Married,Female,02-05-1990,United States Of America,South,Georgia,Kennesaw,30144
+2655,Dr. Benjamin Lam,Corporate,Single,Male,02-05-1995,U.S,South,Georgia,Atlanta,30318
+508,Dr. Cameron Owens,Corporate,Single,Male,12-07-1989,U.S,South,Kentucky,Covington,41011
+1556,Dr. Carol Wood,Consumer,Single,Male,02-05-1990,U.S,South,Virginia,Alexandria,22304
+3303,Dr. Carole Creech,Home Office,Divorced,Male,02-06-1990,U.S.A,South,Florida,Lake Worth,33461
+2345,Dr. Colleen Marsh,Corporate,Single,Female,12-07-1989,U.S,South,Kentucky,Paducah,42003
+1650,Dr. Dan Lamm,Corporate,Single,Male,02-05-1991,U.S.A,South,North Carolina,Asheboro,27203
+2526,Dr. Derek Sweeney,Corporate,Single,Male,02-10-1990,U.S,South,Louisiana,Lafayette,70506
+2193,Dr. Donald Melton,Home Office,Single,Male,02-05-1990,U.S.A,South,North Carolina,New Bern,28560
+1927,Dr. Earl Alston,Home Office,Single,Male,12-08-1990,United States Of America,South,South Carolina,Greenville,29611
+3331,Dr. Elisabeth Shaw,Corporate,Married,Male,02-05-1992,U.S,South,Florida,Ormond Beach,32174
+2724,Dr. Erika Clapp,Home Office,Single,Male,02-05-1992,U.S.A,South,Tennessee,Chattanooga,37421
+3154,Dr. Faye Manning,Corporate,Married,Male,02-05-1992,U.S,South,Florida,Saint Petersburg,33710
+2260,Dr. Geoffrey H Wong,Corporate,Single,Male,02-05-1992,United States Of America,South,Georgia,Rome,30161
+1384,Dr. George McLamb,Consumer,Single,Male,02-05-1992,U.S,South,Virginia,Alexandria,22304
+1745,Dr. Herbert Holden,Consumer,Single,Male,02-05-1992,U.S,South,Georgia,Atlanta,30305
+1802,Dr. Jack Morse,Corporate,Single,Male,02-05-1993,United States Of America,South,Florida,Dunedin,34698
+2254,Dr. Jeff Meadows,Corporate,Single,Male,02-05-1992,U.S,South,Kentucky,Paducah,42003
+2115,Dr. Jeffrey Lloyd,Corporate,Single,Male,12-07-1991,U.S,South,Virginia,Oakton,22124
+1721,Dr. Jennifer Zimmerman,Corporate,Single,Male,02-05-1989,U.S.A,South,Arkansas,Jonesboro,72401
+2858,Dr. Jerry Webster,Corporate,Married,Male,02-05-1993,U.S.A,South,Florida,Fruit Cove,32259
+2456,Dr. Joan Beach,Home Office,Single,Female,12-07-1991,United States Of America,South,Alabama,Mobile,36608
+1038,Dr. Jon Hale,Corporate,Single,Female,02-05-1993,U.S,South,Florida,Belle Glade,33430
+750,Dr. Jordan Wilkinson,Corporate,Single,Female,02-05-1993,U.S.A,South,Kentucky,Florence,41042
+2543,Dr. Josephine Dalton,Small Business,Single,Female,02-05-1991,United States Of America,South,Virginia,Richmond,23223
+806,Dr. Judy Singer,Small Business,Single,Female,02-05-1989,U.S,South,Florida,Miami,33132
+2417,Dr. Ken H Frazier,Consumer,Single,Female,02-05-1993,U.S.A,South,Virginia,Oakton,22124
+2441,Dr. Kenneth Capps,Consumer,Single,Female,12-07-1993,U.S,South,Florida,Melbourne,32935
+2049,Dr. Kenneth Pollock,Corporate,Single,Female,02-05-1996,U.S,South,Virginia,Harrisonburg,22801
+2771,Dr. Kevin Wolfe,Corporate,Single,Female,02-05-1989,U.S,South,Georgia,East Point,30344
+1526,Dr. Larry Hall,Home Office,Single,Female,02-05-1996,United States Of America,South,Alabama,Birmingham,35211
+2286,Dr. Larry Langston,Corporate,Single,Female,02-05-1993,U.S.A,South,South Carolina,Spartanburg,29301
+1551,Dr. Laurence Flowers,Consumer,Single,Female,02-05-1989,U.S.A,South,Mississippi,Biloxi,39530
+3170,Dr. Lawrence Haas,Corporate,Single,Female,02-05-1992,United States Of America,South,Florida,Port Saint Lucie,34952
+2143,Dr. Lester Sawyer,Home Office,Single,Female,02-05-1988,United States Of America,South,Virginia,Fairfax,20151
+1984,Dr. Lynne Wilcox,Consumer,Single,Female,02-05-1988,U.S.A,South,South Carolina,Hilton Head Island,29915
+1916,Dr. Marcia Feldman,Home Office,Single,Female,02-05-1987,U.S,South,Arkansas,Little Rock,72209
+2813,Dr. Marjorie Burnette,Corporate,Single,Female,02-05-1991,United States Of America,South,Tennessee,Cleveland,37311
+2579,Dr. Marshall Sutherland,Home Office,Single,Female,12-07-1994,U.S.A,South,Alabama,Phenix City,36869
+1693,Dr. Melinda Thornton,Consumer,Single,Female,02-05-1991,U.S,South,Virginia,Reston,20190
+1849,Dr. Michelle Steele,Consumer,Single,Female,02-05-1991,U.S.A,South,Alabama,Enterprise,36330
+2369,Dr. Mike G Hartman,Consumer,Single,Female,02-05-1992,United States Of America,South,Florida,Pembroke Pines,33024
+665,Dr. Miriam Mueller,Corporate,Single,Female,12-07-1996,United States Of America,South,Tennessee,Murfreesboro,37130
+2097,Dr. Patsy Shea,Home Office,Single,Female,02-05-1987,U.S.A,South,South Carolina,Hilton Head Island,29915
+907,Dr. Rachel Casey,Home Office,Single,Female,02-05-1989,United States Of America,South,Kentucky,Henderson,42420
+1712,Dr. Regina Langley,Corporate,Single,Female,02-05-1990,United States Of America,South,Georgia,Martinez,30907
+2484,Dr. Rhonda Bryant,Corporate,Single,Female,02-05-1997,U.S.A,South,Florida,Winter Haven,33881
+3279,Dr. Ricky Allred,Home Office,Single,Female,02-05-1993,United States Of America,South,South Carolina,Columbia,29203
+3053,Dr. Robin Tyler,Corporate,Single,Female,02-05-1989,United States Of America,South,Kentucky,Murray,42071
+3225,Dr. Robyn Crawford,Small Business,Single,Female,02-05-1990,U.S,South,Tennessee,Germantown,38138
+2696,Dr. Sally Dunn,Home Office,Single,Female,12-07-1987,United States Of America,South,Alabama,Tuscaloosa,35401
+1194,Dr. Sidney Brewer,Small Business,Single,Female,02-05-1994,United States Of America,South,Florida,Immokalee,34142
+1014,Dr. Theresa Winters,Home Office,Single,Female,02-05-1992,U.S.A,South,Arkansas,Bryant,72022
+1347,Dr. Vivian Goldstein,Home Office,Single,Female,02-05-1987,U.S.A,South,Florida,Brandon,33511
+3113,Dr. Wayne English,Corporate,Single,Female,02-05-1991,U.S.A,South,Louisiana,New Iberia,70560
+228,Miss. Colleen Andrews,Small Business,Single,Female,12-08-1989,U.S,South,North Carolina,Mint Hill,28227
+228,Miss. Colleen Andrews,Small Business,Single,Female,12-08-1989,U.S,South,North Carolina,Mint Hill,28227
+152,Miss. Kent Kerr,Small Business,Single,Female,02-05-1991,United States,South,Tennessee,Knoxville,37918
+152,Miss. Kent Kerr,Small Business,Single,Female,02-05-1991,United States,South,Tennessee,Knoxville,37918
+64,Miss. Lynn Morrow,Small Business,Single,Female,02-05-1996,US,South,Virginia,Salem,24153
+64,Miss. Lynn Morrow,Small Business,Single,Female,02-05-1996,US,South,Virginia,Salem,24153
+247,Miss. Marshall Brandt Briggs,Corporate,Single,Female,02-05-1993,USA,South,Tennessee,Maryville,37804
+247,Miss. Marshall Brandt Briggs,Corporate,Single,Female,02-05-1993,USA,South,Tennessee,Maryville,37804
+395,Miss. Monica McCormick,Corporate,Single,Female,02-05-1989,U.S.A,South,North Carolina,Albemarle,28001
+271,Miss. Sam Rouse,Small Business,Single,Female,02-05-1994,United States,South,Georgia,Forest Park,30297
+375,Miss. Sandra Sharma,Small Business,Single,Female,02-05-1994,USA,South,Tennessee,Morristown,37814
+497,Miss. Steve McKee,Small Business,Single,Female,02-05-1994,United States Of America,South,Tennessee,Murfreesboro,37130
+166,Miss. Vicki Hauser,Consumer,Single,Female,02-05-1986,United States Of America,South,Tennessee,Lebanon,37087
+166,Miss. Vicki Hauser,Consumer,Single,Female,02-05-1986,United States Of America,South,Tennessee,Lebanon,37087
+123,Mistress Shawn Stern,Home Office,Single,Female,02-05-1994,USA,South,Virginia,Tysons Corner,22102
+123,Mistress Shawn Stern,Home Office,Single,Female,02-05-1994,USA,South,Virginia,Tysons Corner,22102
+349,Mistress. Kim Weiss,Home Office,Single,Female,12-07-1991,U.S,South,Florida,Miami,33132
+1627,Mr. Aaron Day,Corporate,Single,Male,2/14/1997,United States Of America,South,North Carolina,Wilmington,28403
+1814,Mr. Albert Tyson,Home Office,Married,Male,02-05-1997,US,South,North Carolina,Wilmington,28403
+2062,Mr. Alfred Singh,Corporate,Divorced,Male,12-07-1997,United States Of America,South,Virginia,Waynesboro,22980
+272,Mr. Eleanor Swain,Home Office,Single,Male,02-05-1993,United States Of America,South,North Carolina,Charlotte,28204
+151,Mr. Geoffrey Zhu,Home Office,Single,Male,02-05-1990,U.S.A,South,Tennessee,Kingsport,37664
+151,Mr. Geoffrey Zhu,Home Office,Single,Male,02-05-1990,U.S.A,South,Tennessee,Kingsport,37664
+342,Mr. Jacqueline Noble,Corporate,Single,Male,02-05-1989,US,South,Florida,Miami,33181
+169,Mr. Janice Cole,Corporate,Single,Male,02-05-1993,US,South,Louisiana,Baton Rouge,70802
+169,Mr. Janice Cole,Corporate,Single,Male,02-05-1993,US,South,Louisiana,Baton Rouge,70802
+3320,Mrs. Alicia Maynard,Small Business,Married,Female,02-05-1997,United States Of America,South,North Carolina,Charlotte,28206
+258,Mrs. Allan Shields,Consumer,Married,Male,02-05-1995,U.S.A,South,Florida,Seminole,33772
+258,Mrs. Allan Shields,Consumer,Married,Male,02-05-1995,U.S.A,South,Florida,Seminole,33772
+471,Mrs. Ross Simpson,Consumer,Single,Female,02-05-1988,United States,South,Georgia,Atlanta,30318
+92,Mrs. Victoria Baker Hoover,Corporate,Single,Female,02-05-1991,U.S,South,Louisiana,Terrytown,70056
+92,Mrs. Victoria Baker Hoover,Corporate,Single,Female,02-05-1991,U.S,South,Louisiana,Terrytown,70056
+2778,Prof. Alison Jones,Consumer,Married,Male,02-05-1998,USA,South,North Carolina,Wilmington,28403
+2593,Prof. Anne Schultz,Corporate,Married,Female,02-05-1990,United States,South,Georgia,Athens,30605
+3226,Prof. Arthur Gold,Small Business,Married,Male,02-05-1992,USA,South,Tennessee,Hendersonville,37075
+1015,Prof. Beverly Cameron,Home Office,Single,Female,02-06-1990,United States,South,North Carolina,Apex,27502
+2840,Prof. Bob Berg,Corporate,Single,Male,02-05-1992,US,South,Florida,North Miami,33161
+2859,Prof. Brad H Blake,Corporate,Single,Male,02-07-1992,United States,South,Florida,Gainesville,32601
+1241,Prof. Bradley Schroeder,Small Business,Single,Male,02-05-1990,US,South,Alabama,Auburn,36830
+910,Prof. Carla Hauser,Corporate,Single,Male,02-06-1990,US,South,Arkansas,Texarkana,71854
+2268,Prof. Carlos Adkins,Small Business,Single,Male,12-09-1989,US,South,Florida,Land O Lakes,34639
+1670,Prof. Carolyn Bowling,Small Business,Single,Male,02-05-1990,United States,South,Virginia,Blacksburg,24060
+2122,Prof. Carolyn Fisher,Consumer,Single,Male,02-06-1990,USA,South,Arkansas,Sherwood,72116
+823,Prof. Christian Albright,Small Business,Single,Female,12-08-1990,USA,South,Tennessee,Smyrna,37167
+3338,Prof. Constance Robertson,Consumer,Divorced,Female,02-06-1992,USA,South,Florida,Tampa,33614
+1737,Prof. Danielle Myers,Corporate,Single,Male,02-05-1990,United States,South,North Carolina,Garner,27529
+751,Prof. David Wrenn,Corporate,Single,Male,12-08-1992,United States,South,Kentucky,Georgetown,40324
+2393,Prof. Debbie Dillon,Corporate,Single,Male,12-07-1989,US,South,Georgia,Roswell,30076
+666,Prof. Emily Sims,Corporate,Single,Male,02-05-1992,US,South,Tennessee,Nashville,37211
+3380,Prof. Eva Decker,Home Office,Married,Male,12-07-1990,US,South,Georgia,La Grange,30240
+1552,Prof. Gary Koch,Small Business,Single,Male,12-07-1991,United States,South,Mississippi,Clinton,39056
+1060,Prof. Gene Gilliam,Small Business,Single,Male,02-05-1990,USA,South,Georgia,Atlanta,30318
+524,Prof. Gina McKnight,Consumer,Single,Male,02-05-1990,USA,South,Tennessee,Farragut,37922
+1928,Prof. Gregory R Snow,Home Office,Single,Male,02-05-1992,US,South,South Carolina,Greer,29651
+2527,Prof. Gretchen Orr,Corporate,Single,Male,02-05-1991,USA,South,Louisiana,Lake Charles,70601
+1997,Prof. Harriet Bowman,Consumer,Single,Male,02-05-1994,United States,South,South Carolina,Hilton Head Island,29915
+1697,Prof. Holly Osborne,Home Office,Single,Male,02-05-1989,USA,South,Arkansas,Hot Springs,71901
+2486,Prof. Jack Horn,Small Business,Single,Male,12-07-1991,United States,South,Georgia,Statesboro,30458
+1350,Prof. Jackie Burke,Home Office,Single,Male,12-07-1988,United States,South,Florida,Carol City,33055
+3176,Prof. Jackie McCullough,Consumer,Married,Male,02-05-1991,US,South,Florida,Jacksonville,32216
+1557,Prof. James Nicholson,Consumer,Single,Male,02-05-1993,USA,South,Virginia,Annandale,22003
+3119,Prof. Jay Hubbard,Corporate,Married,Male,12-07-1990,United States,South,Florida,Orlando,32839
+2464,Prof. Joe George,Consumer,Single,Female,02-05-1992,US,South,Louisiana,Bossier City,71111
+3155,Prof. Julian Keith Mayer,Consumer,Married,Female,02-05-1996,USA,South,Florida,Sanford,32771
+2725,Prof. Katharine Hudson,Home Office,Single,Female,02-05-1996,United States,South,Tennessee,Clarksville,37042
+2145,Prof. Kerry Hardy,Corporate,Single,Female,12-07-1996,US,South,Florida,Fort Lauderdale,33311
+2418,Prof. Kyle Fink,Consumer,Single,Female,02-05-1993,United States,South,Virginia,Petersburg,23805
+2928,Prof. Leslie Woodard,Consumer,Single,Female,02-05-1998,USA,South,South Carolina,Charleston,29418
+1873,Prof. Lisa Kim,Corporate,Single,Female,02-05-1999,United States,South,Florida,Palm Beach Gardens,33403
+2671,Prof. Lloyd Fuller,Home Office,Single,Female,02-05-1994,USA,South,Tennessee,Brentwood,37027
+2256,Prof. Lloyd Levin,Corporate,Single,Female,12-07-1995,USA,South,North Carolina,New Bern,28560
+1632,Prof. Lori Wolfe,Home Office,Single,Female,02-05-1992,US,South,Mississippi,Hattiesburg,39401
+2058,Prof. Louise Webster Sharma,Corporate,Single,Female,02-05-1991,USA,South,North Carolina,Hickory,28601
+3319,Prof. Marlene Davidson,Small Business,Single,Female,02-05-1995,United States,South,Tennessee,Hendersonville,37075
+1764,Prof. Michele Bradshaw,Consumer,Single,Female,12-07-1996,USA,South,Florida,Dunedin,34698
+2442,Prof. Natalie Aldridge,Consumer,Single,Female,02-05-1994,USA,South,Florida,Merritt Island,32953
+1527,Prof. Neil Parker,Home Office,Single,Female,02-05-1989,US,South,Alabama,Decatur,35601
+2545,Prof. Rick Ellis,Home Office,Single,Female,02-05-1987,US,South,Virginia,Springfield,22153
+2697,Prof. Ricky W Clements,Corporate,Single,Female,02-05-1987,US,South,Alabama,Vestavia Hills,35216
+1713,Prof. Rosemary Stark,Corporate,Single,Female,02-05-1997,US,South,Georgia,Newnan,30265
+2287,Prof. Samuel Newman,Corporate,Single,Female,02-05-1989,United States,South,South Carolina,Summerville,29483
+3221,Prof. Sean Pugh,Corporate,Single,Female,02-05-1990,United States,South,Florida,Sunrise,33322
+2209,Prof. Sharon Thomas,Home Office,Single,Female,02-05-1990,United States,South,Georgia,College Park,30337
+1459,Prof. Steve Raynor,Consumer,Single,Female,02-05-1996,USA,South,South Carolina,Taylors,29687
+2346,Prof. Sylvia Kumar,Corporate,Single,Female,12-07-1996,USA,South,Kentucky,Pleasure Ridge Park,40258
+3086,Prof. Ted Durham,Consumer,Single,Female,02-05-1989,US,South,Florida,North Port,34287
+2063,Prof. Todd D Norris,Corporate,Single,Female,02-05-1998,US,South,Virginia,Newport News,23602
+1917,Prof. Tracy Buckley,Home Office,Single,Female,12-07-1986,USA,South,Arkansas,North Little Rock,72113
+2098,Prof. Tracy Dyer,Home Office,Single,Female,12-07-1986,United States,South,South Carolina,Mount Pleasant,29464
+3283,Prof. William Woodard,Corporate,Single,Female,02-05-1998,US,South,Florida,Kendall,33156
+2960,Professor. Allan Dickinson,Corporate,Married,Male,02-05-1995,U.S.A,South,Arkansas,Van Buren,72956
+2750,Professor. Allen Nash,Small Business,Married,Male,02-05-1995,United States Of America,South,Virginia,Waynesboro,22980
+2873,Professor. Benjamin Gunter,Small Business,Single,Male,12-07-1993,United States Of America,South,Florida,Hialeah,33012
+2257,Professor. Bernard Thompson,Corporate,Single,Male,02-08-1995,U.S.A,South,North Carolina,Raleigh,27604
+2302,Professor. Beth Dolan,Corporate,Single,Female,12-07-1990,United States Of America,South,Florida,Panama City,32404
+1959,Professor. Bonnie Matthews Rowland,Home Office,Single,Male,02-05-1992,U.S,South,Florida,Miami,33916
+1528,Professor. Brad Stark,Small Business,Single,Male,02-08-1992,U.S,South,North Carolina,Eden,27288
+1499,Professor. Charlotte L Doyle,Home Office,Single,Male,12-07-1990,U.S.A,South,Florida,Coral Gables,33134
+3381,Professor. Christopher Norton Patterson,Home Office,Divorced,Female,02-05-1990,U.S,South,Georgia,Macon,31204
+2066,Professor. Claudia Webb,Corporate,Single,Female,02-05-1991,U.S,South,North Carolina,Indian Trail,28079
+2146,Professor. Courtney Boyd,Corporate,Single,Male,02-07-1992,U.S,South,Virginia,Fairfax,20151
+3120,Professor. Daniel Christian,Home Office,Widowed,Male,02-07-1991,United States Of America,South,Louisiana,New Orleans,70117
+2358,Professor. Danielle Baird,Home Office,Single,Male,02-05-1990,U.S.A,South,Florida,Fort Lauderdale,33311
+2443,Professor. Danny Richmond,Corporate,Single,Male,02-05-1990,U.S.A,South,Florida,Miami,33142
+1738,Professor. Dean Solomon,Corporate,Single,Male,02-05-1990,United States Of America,South,North Carolina,Gastonia,28052
+3222,Professor. Diane Lu,Corporate,Widowed,Male,02-05-1992,United States Of America,South,Florida,Tallahassee,32303
+3248,Professor. Earl Donnelly,Small Business,Married,Male,02-08-1991,U.S.A,South,Louisiana,Slidell,70458
+2547,Professor. Edna Freeman,Small Business,Single,Male,02-05-1991,U.S,South,Virginia,Virginia Beach,23464
+1016,Professor. Francis Sherrill,Home Office,Single,Male,02-05-1992,United States Of America,South,North Carolina,Asheville,28806
+2677,Professor. Geoffrey Rivera,Small Business,Single,Male,02-05-1990,U.S.A,South,Virginia,Winchester,22601
+1633,Professor. Gerald Raynor,Home Office,Single,Male,02-05-1991,U.S,South,Mississippi,Horn Lake,38637
+3100,Professor. Gladys Holloway,Consumer,Married,Male,02-05-1991,U.S,South,Florida,Oakland Park,33334
+1918,Professor. Hannah Tyson,Home Office,Single,Male,02-05-1990,U.S.A,South,Arkansas,Paragould,72450
+2779,Professor. Jacob Burgess,Corporate,Single,Male,02-05-1991,U.S.A,South,North Carolina,Wilson,27893
+1351,Professor. Janet McCullough,Home Office,Single,Male,02-05-1993,United States Of America,South,Florida,Coconut Creek,33063
+2220,Professor. Jennifer Stanton,Consumer,Single,Male,12-07-1992,United States Of America,South,Florida,Winter Garden,34787
+535,Professor. Jill Clements,Corporate,Single,Male,02-05-1991,U.S.A,South,Virginia,Montclair,22025
+824,Professor. Joann Moser,Small Business,Single,Female,12-07-1990,U.S.A,South,Tennessee,Spring Hill,37174
+2035,Professor. Jon Ward,Consumer,Single,Female,02-05-1990,United States Of America,South,Florida,Palm Beach Gardens,33403
+2704,Professor. Juan Gold,Consumer,Single,Female,02-05-1991,U.S,South,Florida,Pensacola,32503
+1718,Professor. Kathy Shah,Consumer,Single,Female,12-07-1994,U.S,South,North Carolina,Garner,27529
+1259,Professor. Keith Hobbs,Home Office,Single,Female,02-05-1987,U.S,South,Kentucky,Danville,40422
+2270,Professor. Kristine Holden,Small Business,Single,Female,02-05-1996,U.S,South,South Carolina,Mauldin,29662
+3177,Professor. Laurie Petty,Consumer,Single,Female,02-05-1990,U.S,South,Florida,Jupiter,33458
+799,Professor. Lee McKenna Gregory,Consumer,Single,Female,02-05-1992,United States Of America,South,South Carolina,Hilton Head Island,29915
+3339,Professor. Lester Copeland,Consumer,Single,Female,02-05-1987,U.S.A,South,Florida,Titusville,32780
+670,Professor. Lewis Baldwin,Home Office,Single,Female,12-07-1990,U.S,South,Virginia,Montclair,22025
+970,Professor. Lynn Payne,Consumer,Single,Female,12-07-1997,U.S,South,Virginia,Rose Hill,24281
+1875,Professor. Martin Kirk,Consumer,Single,Female,02-05-1987,United States Of America,South,Virginia,Chesapeake,23320
+2539,Professor. Max Hubbard,Home Office,Single,Female,02-05-1987,U.S.A,South,Florida,Winter Park,32789
+3284,Professor. Michael Shaffer,Corporate,Single,Female,12-07-1991,U.S,South,Florida,Kissimmee,34741
+2487,Professor. Michelle Bryant Phillips,Small Business,Single,Female,12-07-1988,United States Of America,South,Georgia,Tucker,30084
+1671,Professor. Mitchell Ross,Small Business,Single,Female,02-05-1987,United States Of America,South,Virginia,Burke,22015
+2099,Professor. Nathan Fox,Home Office,Single,Female,02-05-1997,United States Of America,South,South Carolina,Myrtle Beach,29577
+2059,Professor. Nathan Newton,Corporate,Single,Female,02-05-1988,U.S.A,South,North Carolina,High Point,27260
+2124,Professor. Paige Powers,Corporate,Single,Female,12-07-1986,U.S.A,South,Arkansas,West Memphis,72301
+2620,Professor. Phyllis Little,Corporate,Single,Female,02-05-1994,United States Of America,South,Tennessee,Bartlett,38134
+3167,Professor. Ray Silverman,Corporate,Single,Female,02-05-1988,U.S.A,South,Florida,Ponte Vedra Beach,32004
+2468,Professor. Rhonda Stein,Corporate,Single,Female,02-05-1991,U.S,South,North Carolina,Salisbury,28144
+1767,Professor. Robert Rollins,Home Office,Single,Female,02-05-1994,U.S.A,South,Georgia,Newnan,30265
+1702,Professor. Sandra Berry,Home Office,Single,Female,02-05-1990,U.S.A,South,Mississippi,Meridian,39301
+2419,Professor. Sandra Faulkner,Consumer,Single,Female,02-05-1992,United States Of America,South,Virginia,Portsmouth,23701
+1178,Professor. Sandy Hunt,Consumer,Single,Female,12-07-1988,U.S.A,South,Florida,Altamonte Springs,32701
+1553,Professor. Tara Powers Underwood,Small Business,Single,Female,02-05-1996,United States Of America,South,Mississippi,Greenville,38701
+2394,Professor. Tina Monroe,Corporate,Single,Female,02-05-1997,U.S,South,Georgia,Sandy Springs,30328
+2847,Professor. Vanessa Day,Corporate,Single,Female,02-05-1993,U.S,South,Tennessee,Collierville,38017
+1559,Professor. Zachary Maynard,Consumer,Single,Female,12-07-1997,U.S.A,South,Virginia,Blacksburg,24060

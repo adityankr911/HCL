@@ -1,0 +1,523 @@
+Policy_Type_Id,Policy_Type,Policy_Type_Desc,Policy_Id,Policy_Name,Premium_Amt,Policy_Term,Policy_Start_Dt,Policy_End_Dt
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2638,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2745,HSB_Auto_98765,2000,Monthly,01-02-2010,12/29/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_357,HSB_Auto_98765,2000,Monthly,01-01-2010,12/28/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_3264,HSB_Lifeclaim_13579,5000,Quarterly,01-05-2010,12/31/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_617,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1391,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2803,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_820,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3064,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2355,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1723,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1989,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_549,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3325,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_922,HSB_Jewel_02468,60000,Half Yearly,12/30/2011,12/28/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1189,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1374,HSB_Lifeclaim_13579,5000,Quarterly,01-03-2008,12/29/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_485,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_259,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_880,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3209,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_949,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_993,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_308,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1425,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1280,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3149,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_851,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_3393,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_699,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_1609,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_744,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_451,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1956,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_570,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1054,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_680,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1782,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2962,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2037,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_2495,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_2141,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_640,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_757,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2003,12/27/2025
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1869,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_1117,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_3354,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_782,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_236,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1307,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3006,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2431,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2855,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_2548,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_181,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_2670,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+19186,UnitLinked,Market-linked product that aggregates the very best of investment and insurance,19186_597,HSB_UnitLinked_19186,5000,Quarterly,12/31/2008,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3063,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1988,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_526,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_353,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2652,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_254,HSB_Auto_98765,2000,Monthly,01-02-2007,12/29/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_638,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_800,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1305,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2006,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3206,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_463,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_771,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1665,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2323,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_875,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1044,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_428,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2931,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_218,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1186,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_972,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_510,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3258,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1390,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_754,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1781,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2385,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_850,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_920,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2801,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1271,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1852,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1113,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_679,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_556,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3148,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3324,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1950,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2626,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_604,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1316,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1481,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2741,HSB_Jewel_02468,60000,Half Yearly,6/30/2016,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2135,HSB_Jewel_02468,60000,Half Yearly,6/30/2016,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_2828,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_3351,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_698,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_2531,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_164,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_1424,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_290,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_2491,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_945,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_719,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_3005,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_32,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_32,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_87,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+1/31/2010,1/0/1900,U.S,West,California,2000,Monthly,12/31/2006,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_5,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_53,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_43,HSB_Jewel_02468,60000,Half Yearly,12/30/2005,12/27/2025
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_43,HSB_Jewel_02468,60000,Half Yearly,12/30/2005,12/27/2025
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_91,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2009,12/28/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2009,12/28/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_156,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_27,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_27,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+19181,TermLife,Coverage for a certain period of time,19181_1354,HSB_Termclaim_23579,5000,Quarterly,01-01-2008,12/27/2036
+19184,Moneyback,The insured person gets a percentage of sum assured at regular intervals,19184_188,HSB_Moneyback_19184,5000,Quarterly,01-01-2011,12/27/2036
+19185,ChildPlan,Insurance cum investment plan to secure child's future,19185_3106,HSB_ChildPlan_19185,5000,Quarterly,01-01-2008,12/27/2035
+19187,AnnuityPlan,Income stream for retirees,19187_2108,HSB_AnnuityPlan_19187,5000,Quarterly,01-01-2010,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_136,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_115,HSB_Jewel_02468,60000,Half Yearly,01-01-2011,12/28/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_24,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_24,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_67,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_120,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_19,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_19,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_18,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_18,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_117,HSB_Jewel_02468,60000,Half Yearly,12/30/2018,12/27/2038
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_52,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_52,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_33,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_33,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_114,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+19182,WholeLife,Remain in force for the insured's entire lifetime,19182_697,HSB_WholeLife_22468,60000,Half Yearly,6/29/2011,01-01-2112
+13579,Mediclaim,Related to Life or Personal Claim,13579_691,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_2498,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1410,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1383,HSB_Auto_98765,2000,Monthly,01-02-2008,12/29/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2773,HSB_Lifeclaim_13579,5000,Quarterly,01-05-2008,12/31/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1303,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2489,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_193,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_493,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_830,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1836,HSB_Jewel_02468,60000,Half Yearly,01-01-2011,12/28/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1940,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2356,HSB_Auto_98765,2000,Monthly,12/31/2009,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2868,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2052,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_240,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3355,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3075,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_576,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2164,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_268,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_786,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1182,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_700,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_317,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2016,12/27/2038
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3238,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1314,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_918,HSB_Auto_98765,2000,Monthly,12/31/2015,12/27/2038
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1730,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_1101,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_553,HSB_Auto_98765,2000,Monthly,12/31/2009,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_651,HSB_Jewel_02468,60000,Half Yearly,12/30/2018,12/27/2038
+13579,Mediclaim,Related to Life or Personal Claim,13579_853,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_452,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2699,HSB_Auto_98765,2000,Monthly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_2639,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_745,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_2823,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_3017,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_1041,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_1991,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3340,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_960,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3196,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_618,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_936,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3003,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1257,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1636,HSB_Auto_98765,2000,Monthly,12/31/2014,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_762,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_3275,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3403,HSB_Auto_98765,2000,Monthly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1121,HSB_Jewel_02468,60000,Half Yearly,6/30/2016,12/27/2036
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_369,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1450,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1958,HSB_Jewel_02468,60000,Half Yearly,6/30/2016,12/27/2036
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2570,HSB_Auto_98765,2000,Monthly,12/31/2015,12/27/2038
+19183,Endowment,Pay a lump sum on its maturity or on death.,19183_674,HSB_Endowment_19183,5000,Quarterly,01-01-2010,01-01-2112
+13579,Mediclaim,Related to Life or Personal Claim,13579_3205,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_241,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3350,HSB_Jewel_02468,60000,Half Yearly,12/30/2011,12/28/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_653,HSB_Lifeclaim_13579,5000,Quarterly,01-06-2008,01-01-2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1183,HSB_Jewel_02468,60000,Half Yearly,01-03-2013,12/30/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_961,HSB_Auto_98765,2000,Monthly,01-05-2010,01-01-2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_269,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2825,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_411,HSB_Lifeclaim_13579,5000,Quarterly,01-03-2007,12/29/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1653,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_637,HSB_Auto_98765,2000,Monthly,01-05-2008,01-01-2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_335,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1949,HSB_Auto_98765,2000,Monthly,01-01-2008,12/28/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3084,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2376,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_797,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_753,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_453,HSB_Auto_98765,2000,Monthly,12/31/2009,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_833,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_770,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_603,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1837,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2004,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2530,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1389,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1042,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_494,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2781,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_702,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_937,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1112,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_1412,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1979,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3287,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_3004,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1754,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2490,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1123,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2729,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_693,HSB_Auto_98765,2000,Monthly,12/31/2012,12/27/2035
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3356,HSB_Jewel_02468,60000,Half Yearly,12/30/2018,12/27/2038
+13579,Mediclaim,Related to Life or Personal Claim,13579_871,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2225,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3257,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1304,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2003,12/27/2025
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2878,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_194,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2647,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2610,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3048,HSB_Auto_98765,2000,Monthly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_919,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2094,HSB_Auto_98765,2000,Monthly,12/31/2012,12/27/2035
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1469,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1261,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_555,HSB_Auto_98765,2000,Monthly,12/31/2010,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_2359,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2285,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2010,12/28/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2395,HSB_Lifeclaim_13579,5000,Quarterly,01-04-2007,12/30/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_507,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3347,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3128,HSB_Lifeclaim_13579,5000,Quarterly,01-03-2007,12/29/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3224,HSB_Auto_98765,2000,Monthly,01-01-2008,12/28/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2137,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2008,12/28/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2720,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2454,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1363,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2684,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1739,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_678,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2848,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2069,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2488,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2880,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2540,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3169,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2044,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1554,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2770,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1531,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1634,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_2481,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2578,HSB_Auto_98765,2000,Monthly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_2308,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3105,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_1185,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_803,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1971,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1815,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3255,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2240,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2003,12/27/2025
+13579,Mediclaim,Related to Life or Personal Claim,13579_1018,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_2968,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_829,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1919,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2258,HSB_Jewel_02468,60000,Half Yearly,12/30/2018,12/27/2038
+13579,Mediclaim,Related to Life or Personal Claim,13579_2114,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_568,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1502,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_3285,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_2621,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2787,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1267,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1719,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1910,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1711,HSB_Auto_98765,2000,Monthly,12/31/2003,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1574,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_2183,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3187,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_1672,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_983,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1788,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_2420,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2882,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_3194,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3379,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2655,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_508,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1556,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_3303,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2345,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1650,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2526,HSB_Lifeclaim_13579,5000,Quarterly,01-06-2007,01-01-2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2193,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1927,HSB_Auto_98765,2000,Monthly,01-01-2008,12/28/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3331,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2724,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3154,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2260,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1384,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1745,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1802,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2254,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2115,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1721,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_2858,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2456,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1038,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_750,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2543,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_806,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2417,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2441,HSB_Auto_98765,2000,Monthly,12/31/2010,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_2049,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2771,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1526,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2286,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_1551,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_3170,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2143,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1984,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1916,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_2813,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2579,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_1693,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1849,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2369,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_665,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2097,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_907,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1712,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2484,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3279,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3053,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_3225,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2696,HSB_Auto_98765,2000,Monthly,12/31/2004,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_1194,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1014,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1347,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_3113,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_228,HSB_Auto_98765,2000,Monthly,01-01-2007,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_228,HSB_Auto_98765,2000,Monthly,01-01-2007,12/28/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_152,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_152,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_64,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_64,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_247,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_247,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_395,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_271,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_375,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_497,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_166,HSB_Jewel_02468,60000,Half Yearly,12/30/2005,12/27/2025
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_166,HSB_Jewel_02468,60000,Half Yearly,12/30/2005,12/27/2025
+13579,Mediclaim,Related to Life or Personal Claim,13579_123,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_123,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_349,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+19181,TermLife,Coverage for a certain period of time,19181_1354,HSB_Termclaim_23579,5000,Quarterly,01-01-2008,12/27/2036
+19182,WholeLife,Remain in force for the insured's entire lifetime,19182_697,HSB_WholeLife_22468,60000,Half Yearly,6/29/2011,01-01-2112
+19185,ChildPlan,Insurance cum investment plan to secure child's future,19185_3106,HSB_ChildPlan_19185,5000,Quarterly,01-01-2008,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_272,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_151,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_151,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_342,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_169,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_169,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+19186,UnitLinked,Market-linked product that aggregates the very best of investment and insurance,19186_597,HSB_UnitLinked_19186,5000,Quarterly,12/31/2008,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_258,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_258,HSB_Jewel_02468,60000,Half Yearly,12/30/2014,12/27/2034
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_471,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+13579,Mediclaim,Related to Life or Personal Claim,13579_92,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_92,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2778,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2593,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3226,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1015,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2840,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2859,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2009,12/29/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1241,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_910,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2007,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2268,HSB_Auto_98765,2000,Monthly,01-02-2007,12/29/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1670,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2122,HSB_Jewel_02468,60000,Half Yearly,01-01-2010,12/28/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_823,HSB_Auto_98765,2000,Monthly,01-01-2008,12/28/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3338,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2009,12/28/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1737,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_751,HSB_Auto_98765,2000,Monthly,01-01-2010,12/28/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2393,HSB_Auto_98765,2000,Monthly,12/31/2006,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_666,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3380,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1552,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1060,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_524,HSB_Jewel_02468,60000,Half Yearly,12/30/2009,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1928,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2527,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1997,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1697,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2486,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1350,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_3176,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1557,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3119,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2464,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3155,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2725,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2145,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_2418,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_2928,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_1873,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2016,12/27/2038
+13579,Mediclaim,Related to Life or Personal Claim,13579_2671,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2256,HSB_Auto_98765,2000,Monthly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_1632,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2058,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3319,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1764,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2442,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1527,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2545,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2697,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1713,HSB_Jewel_02468,60000,Half Yearly,6/30/2016,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_2287,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2006,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_3221,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2209,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1459,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2346,HSB_Auto_98765,2000,Monthly,12/31/2013,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3086,HSB_Jewel_02468,60000,Half Yearly,12/30/2008,12/27/2028
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2063,HSB_Jewel_02468,60000,Half Yearly,12/30/2017,12/27/2037
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1917,HSB_Auto_98765,2000,Monthly,12/31/2003,12/27/2026
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2098,HSB_Auto_98765,2000,Monthly,12/31/2003,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_3283,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2015,12/27/2037
+13579,Mediclaim,Related to Life or Personal Claim,13579_2960,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_2750,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2012,12/27/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2873,HSB_Auto_98765,2000,Monthly,12/31/2010,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_2257,HSB_Lifeclaim_13579,5000,Quarterly,01-04-2012,12/30/2034
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2302,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1959,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_1528,HSB_Lifeclaim_13579,5000,Quarterly,01-03-2009,12/30/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1499,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_3381,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2066,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2146,HSB_Lifeclaim_13579,5000,Quarterly,01-02-2009,12/29/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3120,HSB_Lifeclaim_13579,5000,Quarterly,01-03-2008,12/29/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2358,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2443,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_1738,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3222,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3248,HSB_Lifeclaim_13579,5000,Quarterly,01-04-2008,12/30/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2547,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1016,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_2677,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1633,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_3100,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_1918,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2779,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1351,HSB_Jewel_02468,60000,Half Yearly,12/30/2012,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2220,HSB_Auto_98765,2000,Monthly,12/31/2009,12/27/2032
+13579,Mediclaim,Related to Life or Personal Claim,13579_535,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_824,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+13579,Mediclaim,Related to Life or Personal Claim,13579_2035,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2704,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2008,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1718,HSB_Auto_98765,2000,Monthly,12/31/2011,12/27/2034
+13579,Mediclaim,Related to Life or Personal Claim,13579_1259,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2270,HSB_Jewel_02468,60000,Half Yearly,12/29/2015,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_3177,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_799,HSB_Jewel_02468,60000,Half Yearly,12/29/2011,12/27/2031
+13579,Mediclaim,Related to Life or Personal Claim,13579_3339,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_670,HSB_Auto_98765,2000,Monthly,12/31/2007,12/27/2030
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_970,HSB_Auto_98765,2000,Monthly,12/31/2014,12/27/2037
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1875,HSB_Jewel_02468,60000,Half Yearly,12/30/2006,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_2539,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_3284,HSB_Auto_98765,2000,Monthly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2487,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1671,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2004,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_2099,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2059,HSB_Jewel_02468,60000,Half Yearly,12/29/2007,12/27/2027
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_2124,HSB_Auto_98765,2000,Monthly,12/31/2003,12/27/2026
+13579,Mediclaim,Related to Life or Personal Claim,13579_2620,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2011,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_3167,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2004,12/27/2027
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_2468,HSB_Jewel_02468,60000,Half Yearly,12/30/2010,12/27/2030
+2468,Mortgages,"Related to Ornaments, Property Claim",02468_1767,HSB_Jewel_02468,60000,Half Yearly,12/30/2013,12/27/2033
+13579,Mediclaim,Related to Life or Personal Claim,13579_1702,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2007,12/27/2029
+13579,Mediclaim,Related to Life or Personal Claim,13579_2419,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2008,12/27/2031
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1178,HSB_Auto_98765,2000,Monthly,12/31/2005,12/27/2028
+13579,Mediclaim,Related to Life or Personal Claim,13579_1553,HSB_Lifeclaim_13579,5000,Quarterly,12/31/2012,12/27/2035
+13579,Mediclaim,Related to Life or Personal Claim,13579_2394,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2014,12/27/2036
+13579,Mediclaim,Related to Life or Personal Claim,13579_2847,HSB_Lifeclaim_13579,5000,Quarterly,01-01-2010,12/27/2032
+98765,Auto,Related to 4 wheelers or 3 wheelers or 2 wheelers Claims,98765_1559,HSB_Auto_98765,2000,Monthly,12/31/2014,12/27/2037
