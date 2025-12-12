@@ -291,6 +291,57 @@ These files now contain:
 
 This pipeline ensures consistent, high-quality data for loading into the insurance data warehouse.
 
-# Outputs
+
+
+# SQL Query Documentation
+Milestone.sql file contains the test queries to extract the desired output.
+This section summarizes the purpose of each analytical query used in the insurance data warehouse.  
+Only the intent and functionality of each query are described below.
+
+---
+
+## 1. Detect Customers Who Changed Their Policy Type
+Identifies customers whose **current policy type differs from their previous one** by comparing policy records ordered by policy start date.  
+Useful for analyzing customer behavior, product transitions, and cross-selling opportunities.
+
+---
+
+## 2. Calculate Total Policy Amount per Customer
+Aggregates and returns the **total insured amount for each customer** across all their policies.  
+Supports customer-level financial analysis and portfolio valuation.
+
+---
+
+## 3. Compute Total Policy Amount for Auto Policies
+Calculates the **total insurance amount for all Auto-type policies**.  
+Helps evaluate product-line performance and Auto business exposure.
+
+---
+
+## 4. Sum Policy Amounts for East/West Regions (Quarterly, Year 2012)
+Filters transactions by:
+- Region (East/West),
+- Policy term (Quarterly),
+- Policy start year (2012),
+
+and computes their combined policy value.  
+Useful for assessing regional performance for specific products in a given year.
+
+---
+
+## 5. Identify Customers With Marital Status Changes
+Finds customers who have **more than one marital status recorded** in the customer dimension.  
+Indicates changes captured through SCD Type 2 or multiple lifecycle events.
+
+---
+
+## 6. Produce Enriched Transaction-Level Output
+Creates a unified view by joining fact records with customer and policy dimensions.  
+Adds customer details (name, location) and policy attributes (type, name) to the fact table for reporting and BI dashboards.
+
+---
+
+This documentation provides a high-level understanding of each analytical component without exposing SQL code details.
+
 ![System Architecture](out1.png)
 
