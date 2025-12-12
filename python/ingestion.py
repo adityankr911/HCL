@@ -1,6 +1,3 @@
-"""Ingest CSVs -> write staging raw tables into sqlite
-Usage: python ingestion.py --examples examples --db sqlite:///data/insurance.db
-"""
 import argparse, os
 from src.utils.db import get_engine, to_sql
 from src.utils.io import read_csv
