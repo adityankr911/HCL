@@ -291,5 +291,6 @@ These files now contain:
 
 This pipeline ensures consistent, high-quality data for loading into the insurance data warehouse.
 
-
+# Outputs
+![System Architecture](out1.png)
 
