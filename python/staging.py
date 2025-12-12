@@ -1,4 +1,3 @@
-"""Stage raw data: normalize column names, dates, drop duplicates"""
 import argparse
 from src.utils.db import get_engine, to_sql, read_sql
 from src.utils.dates import parse_date
