@@ -178,13 +178,5 @@ This table captures all monetary activities associated with policies, including 
 - `is_reversal`
 - `load_ts`, `source_region`, `source_file`
 
-### Point-in-Time Dimension Linking Rule
-
-To ensure the fact table references the correct SCD2 version:
-
-```sql
-date_key BETWEEN effective_from AND COALESCE(effective_to, '9999-12-31')
-
-
 ![System Architecture](erd.png)
 
