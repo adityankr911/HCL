@@ -180,3 +180,116 @@ This table captures all monetary activities associated with policies, including 
 
 ![System Architecture](erd.png)
 
+
+# Insurance Data Preprocessing Pipeline (Brief Documentation)
+
+This preprocessing workflow prepares raw insurance datasets for ingestion into the data warehouse.  
+It performs data cleaning, customer name standardization, date normalization, schema enforcement, and missing value handling.
+
+---
+
+## 1. Loading Raw Data
+Three input files are loaded:
+
+- `Insurance_details_US_Central_day0.csv`
+- `Insurance_details_US_Central_day1.csv`
+- `Insurance_details_US_Central_day2.csv`
+
+Each file includes customer details, policy information, geographic attributes, and premium-related fields.
+
+---
+
+## 2. Merging Customer Name Components
+The raw dataset stores name components separately:
+
+- Customer Title  
+- Customer First Name  
+- Customer Middle Name  
+- Customer Last Name  
+
+These are merged into a unified field:
+Customer Name = "<Title> <First> <Middle> <Last>"
+
+The original name columns are then removed.
+
+**Purpose:** Creates a consistent, clean identifier for customers.
+
+---
+
+## 3. Standardizing Date Columns
+All date-related columns are converted into valid datetime objects using a custom function.  
+Converted fields include:
+
+- DOB  
+- Effective_Start_Dt  
+- Effective_End_Dt  
+- Policy_Start_Dt  
+- Policy_End_Dt  
+- Next_Premium_Dt  
+- Actual_Premium_Paid_Dt  
+
+Invalid or inconsistent formats are automatically converted to `NaT`.
+
+**Purpose:** Ensures clean, SQL-compatible date values.
+
+---
+
+## 4. Enforcing a Strict Schema
+A predefined list of column names is applied to guarantee uniform structure across all daily data files.  
+The function:
+
+- Validates column count  
+- Applies positional renaming  
+- Ensures all datasets follow an identical schema  
+
+**Purpose:** Enables reliable downstream loading into data warehouse tables.
+
+---
+
+## 5. Handling Missing Values
+The function `fill_missing_by_type()` fills missing values based on data type:
+
+- Date fields → `1900-01-01`
+- Numeric fields → `0`
+- Text fields → `"N/A"`
+
+Numeric values are converted to integers where applicable.
+
+**Purpose:** Eliminates NULL-related problems during SQL ingestion and analytics.
+
+---
+
+## 6. Exporting Cleaned Files
+Cleaned insurance datasets are exported as:
+
+- `Central_day0.csv`
+- `Central_day1.csv`
+- `Central_day2.csv`
+
+These files now contain:
+
+- Standardized customer names  
+- Clean date formats  
+- Strict and consistent schema  
+- No missing values  
+- DW-ready structure  
+
+---
+
+## Summary of the Processing Pipeline
+
+| Step | Description |
+|------|-------------|
+| Load raw CSV files | Initialize input data |
+| Merge customer name | Combine title, first, middle, last names |
+| Standardize date formats | Normalize all date columns |
+| Enforce strict schema | Apply consistent column naming |
+| Handle missing values | Fill NULLs by type |
+| Export final CSVs | Output cleaned DW-ready datasets |
+
+---
+
+This pipeline ensures consistent, high-quality data for loading into the insurance data warehouse.
+
+
+
