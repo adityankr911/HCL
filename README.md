@@ -155,5 +155,5 @@ Stores detailed premium-related data, late fees, payment classification, and fin
 - `is_reversal`  
 - `load_ts`, `source_region`, `source_file`
 
-![System Architecture](erd_diagram.jpg)
+![System Architecture](erd.png)
 
