@@ -1,14 +1,3 @@
-#!/usr/bin/env python3
-"""
-src/etl/dims_scd.py
-
-Create dimensions with basic SCD Type-2 style logic for customers and build policy dims.
-
-Usage:
-    python -m src.etl.dims_scd --db sqlite:///data/insurance.db
-(or)
-    PYTHONPATH=. python src/etl/dims_scd.py --db sqlite:///data/insurance.db
-"""
 import argparse
 import pandas as pd
 from src.utils.db import get_engine, to_sql, read_sql
