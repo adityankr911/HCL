@@ -1,12 +1,3 @@
-#!/usr/bin/env python3
-"""
-src/etl/load_fact.py
-
-Robustly build fact_policy_txn by joining prepared staging with dims.
-Handles missing columns gracefully.
-Usage:
-    python -m src.etl.load_fact --db sqlite:///data/insurance.db
-"""
 import argparse
 import pandas as pd
 from src.utils.db import get_engine, to_sql, read_sql
