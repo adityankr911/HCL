@@ -1,4 +1,3 @@
-"""Create dim_address, dim_region and prepare transaction staging for fact load."""
 import argparse
 from src.utils.db import get_engine, to_sql, read_sql
 import pandas as pd
